@@ -332,46 +332,10 @@ Then visit:
 http://localhost:8000
 ```
 
----
-
-## 17. GitHub Pages Deployment
-
-1. Create a new GitHub repository.
-2. Upload `index.html`, `styles.css`, `script.js` and `README.md`.
-3. Open **Settings → Pages**.
-4. Select the main branch and the root folder.
-5. Save the configuration.
-6. GitHub will provide the published website URL.
-
-Before submitting, open the published URL in an incognito window and test all navigation links and interactive sections.
 
 ---
 
-## 18. Final Submission Checklist
-
-- [x] Fictional company created
-- [x] Approved industry addressed
-- [x] Company mission and vision included
-- [x] Market problem explained
-- [x] Agentic AI workflow included
-- [x] Customer persona included
-- [x] Customer journey included
-- [x] Value proposition included
-- [x] Business model included
-- [x] Moat / defensibility included
-- [x] Porter’s Five Forces included
-- [x] Governance and guardrails included
-- [x] India-specific compliance considerations included
-- [x] Accepted / modified / rejected decisions included
-- [x] Difficult concept and trade-off included
-- [x] GenAI use disclosed
-- [ ] **Actual AI transcript share links added**
-- [ ] Final similarity / originality check completed
-- [ ] Published website tested
-
----
-
-## 19. Academic Note
+## 17. Academic Note
 
 This is a **fictional business concept created for the Business of AI assignment**. Product capabilities, customer personas, market assumptions and business decisions are proposed concepts rather than claims about an existing company.
 
